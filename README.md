@@ -1,48 +1,37 @@
-# Hello world, I'm Rohit Tidke
+<h1 align="center">Hey, I'm Rohit 👨‍💻</h1>
 
-ML Engineer based in Berlin, building production ML, GenAI, search, and automation systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1100&center=true&vCenter=true&width=700&lines=I+like+building+useful+things.;ML+Engineer+%7C+AI+Builder+%7C+Search+Nerd.;GenAI%2C+RAG%2C+MCP%2C+MLOps." alt="Typing intro" />
+</p>
 
-- Currently: ML Engineer / AI Engineer - Working Student at Scout24 SE
-- Focus areas: production ML, GenAI, MLOps, search quality, RAG, and MCP-based tooling
-- Education: M.Sc. in Data and Knowledge Engineering, Otto-von-Guericke University
-- Publication: Paper accepted at CONCEPTS 2026
+<p align="center">
+  based in Berlin • building AI, ML, GenAI, search, and automation systems
+</p>
 
-## What I'm working on
+<p align="center">
+  <a href="https://rohittidke.com/">portfolio</a> •
+  <a href="https://www.linkedin.com/in/rohitidke/">linkedin</a> •
+  <a href="mailto:rtrohittidke3@gmail.com">email</a>
+</p>
 
-- Production ML and GenAI systems for real-estate workflows at Scout24
-- Search-quality improvements, prompt engineering, and internal AI tooling
-- Research and prototypes around formal concept analysis and structure discovery
+```python
+rohit = {
+  "vibe": "curious builder",
+  "currently": "shipping AI at Scout24",
+  "likes": ["LLMs", "search", "Backend", "MCP", "making ideas real", "challenges"]
+}
+```
 
-## Selected highlights
+- ⚙️ built GenAI pipelines for 20M SEO pages
+- 🎯 improved AI search accuracy from 72% to 85%
+- 🚀 cut ML workflow runtime from 2 days to 3 hours
+- 🧠 paper accepted at CONCEPTS 2026
 
-- Built an Airflow pipeline that generated GenAI content for 20 million SEO address pages, contributing about 666k extra clicks per year
-- Automated a SageMaker-based reporting workflow and reduced runtime by 93%, from 2 days to 3 hours
-- Improved AI search accuracy from 72% to 85% through prompt engineering and iterative evaluation
-- Built ML and AI systems across recommendations, predictive analytics, RAG, vector search, and voice AI
+<p align="center">
+  <a href="https://github.com/rohitidke/BBT-Paper">research</a> •
+  <a href="https://github.com/rohitidke/k-fca-prototype">prototype</a>
+</p>
 
-## Featured projects
-
-- [Portfolio Website](https://github.com/rohitidke/rohitidke.github.io) - Personal portfolio and blog
-- `BBT-Paper` - Research code and experiments related to accepted CONCEPTS 2026 work
-- `k-fca-prototype` - Prototype implementation of K-valued Formal Concept Analysis
-- `finding-donors-ml` - Applied ML project from Udacity's Data Science Nanodegree
-
-## Tech stack
-
-- Languages: Python, Java, TypeScript, SQL
-- ML and Data: scikit-learn, XGBoost, PyTorch, TensorFlow, Pandas, NumPy, PySpark
-- GenAI: OpenAI, Azure OpenAI, Gemini, LiteLLM, RAG, vector search, prompt engineering, MCP
-- MLOps and Cloud: Airflow, SageMaker, AWS, Docker, Kubernetes, MLflow, Kubeflow
-- Backend: FastAPI, Flask, Spring Boot
-
-## Find me here
-
-- Portfolio: [rohittidke.com](https://rohittidke.com/)
-- LinkedIn: [linkedin.com/in/rohitidke](https://www.linkedin.com/in/rohitidke/)
-
-## Currently exploring
-
-- LLMOps and evaluation workflows
-- MCP-based apps and tools
-- Search and retrieval systems
-- Research-driven ML engineering
+<p align="center">
+  <code>Python</code> <code>AWS</code> <code>Airflow</code> <code>FastAPI</code> <code>OpenAI</code> <code>Gemini</code> <code>RAG</code> <code>MCP</code>
+</p>
