@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rohit 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1100&center=true&vCenter=true&width=700&lines=I+like+building+useful+things.;ML+Engineer+%7C+AI+Builder+%7C+Search+Nerd.;GenAI%2C+RAG%2C+MCP%2C+MLOps." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1100&center=true&vCenter=true&width=700&lines=I+like+building+and+debugging.;ML+Engineer+%7C+AI+Builder+%7C+Search+Nerd.;GenAI%2C+RAG%2C+MCP%2C+MLOps." alt="Typing intro" />
 </p>
 
 <p align="center">
