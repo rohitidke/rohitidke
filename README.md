@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Tidke
+# Hello world, I'm Rohit Tidke
 
 ML Engineer based in Berlin, building production ML, GenAI, search, and automation systems.
 
@@ -39,7 +39,6 @@ ML Engineer based in Berlin, building production ML, GenAI, search, and automati
 
 - Portfolio: [rohittidke.com](https://rohittidke.com/)
 - LinkedIn: [linkedin.com/in/rohitidke](https://www.linkedin.com/in/rohitidke/)
-- GitHub: [github.com/rohitidke](https://github.com/rohitidke)
 
 ## Currently exploring
 
